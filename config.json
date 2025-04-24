@@ -1,0 +1,9 @@
+{
+    "export": {
+        "format": "txt",
+        "default_location": "./transcript.txt"
+    },
+    "transcript": {
+        "timestamps": false
+    }
+}
